@@ -1,0 +1,14 @@
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\bin\Debug\net6.0\EjercicioLambda.exe
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\bin\Debug\net6.0\EjercicioLambda.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\bin\Debug\net6.0\EjercicioLambda.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\bin\Debug\net6.0\EjercicioLambda.dll
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\bin\Debug\net6.0\EjercicioLambda.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.dll
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\refint\EjercicioLambda.dll
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\EjercicioLambda.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\Lambda\EjercicioLambda\obj\Debug\net6.0\ref\EjercicioLambda.dll
